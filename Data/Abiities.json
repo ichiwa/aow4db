@@ -4,7 +4,7 @@ var jsonUnitAbilities = {
             "modifiers": [
                 {
                     "description": "Damages <hyperlink>Fortified</hyperlink> Obstacles.",
-                    "name": "Demolisher",
+                    "name": "デモリッシャー",
                     "count": 1
    },
                 {
